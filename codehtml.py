@@ -37,11 +37,10 @@
     exercitationem explicabo facere magnam maiores non odio omnis perspiciatis quos reiciendis soluta tempore totam
     ullam?
     </span>
-    <span>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquam amet autem consequuntur cupiditate, et
+   <center>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquam amet autem consequuntur cupiditate, et
     exercitationem explicabo facere magnam maiores non odio omnis perspiciatis quos reiciendis soluta tempore totam
     ullam?
-    </span>
+    </center> 
     <span>
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquam amet autem consequuntur cupiditate, et
     exercitationem explicabo facere magnam maiores non odio omnis perspiciatis quos reiciendis soluta tempore totam
